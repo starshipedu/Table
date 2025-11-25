@@ -1,0 +1,338 @@
+{
+  "locations": [
+    {
+      "name": "Jakarta (Head Office)",
+      "members": [
+        {
+          "name": "Nataline G.H",
+          "role": "Education Counselor",
+          "image": "http://tiny.cc/SS-Astrid",
+          "whatsapp": "6289675584699",
+          "linkedin": "https://www.linkedin.com/in/nataline-hapsari-041641119/",
+          "instagram": "https://www.instagram.com/rorien_nat/",
+          "email": "ms.rorien@starshipeducation.com"
+        },
+        {
+          "name": "Tyto Payung",
+          "role": "Public Relations",
+          "image": "http://tiny.cc/SS-Astro",
+          "whatsapp": "6281313247707",
+          "linkedin": "https://www.linkedin.com/in/try-utomo-payung-b81290170/",
+          "instagram": "https://www.instagram.com/starship_edu/",
+          "email": "tyto@starshipeducation.com"
+        },
+        {
+          "name": "Abdul Azis",
+          "role": "Education Counselor",
+          "image": "http://tiny.cc/SS-Astro-1",
+          "whatsapp": "6281282048571",
+          "linkedin": "https://www.linkedin.com/in/azis20/",
+          "instagram": "https://www.instagram.com/starship_edu/",
+          "email": "azzzse@gmail.com"
+        },
+        {
+          "name": "Bunga Hafnil",
+          "role": "Education Counselor",
+          "image": "http://tiny.cc/SS-Astrid-1",
+          "whatsapp": "6285156128771",
+          "linkedin": "https://www.linkedin.com/in/bungah/?originalSubdomain=id",
+          "instagram": "https://www.instagram.com/starship_edu/",
+          "email": "bunga.hafnil@gmail.com"
+        },
+        {
+          "name": "Chrisetyo P",
+          "role": "Education Counselor",
+          "image": "http://tiny.cc/SS-Astro-3",
+          "whatsapp": "6282111460179",
+          "linkedin": "#",
+          "instagram": "https://www.instagram.com/starship_edu/",
+          "email": "bunga.hafnil@gmail.com"
+        },
+        {
+          "name": "Ghofar A.AS",
+          "role": "Education Counselor",
+          "image": "http://tiny.cc/SS-Astro-4",
+          "whatsapp": "6282111156705",
+          "linkedin": "linkedin.com/in/ghoffar-a-8a62448a",
+          "instagram": "https://www.instagram.com/starship_edu/",
+          "email": "ghoffare@gmail.com"
+        }
+      ]
+    },
+
+{
+      "name": "Surabaya",
+      "members": [
+        {
+          "name": "Teh Wendy",
+          "role": "Education Counselor",
+          "image": "http://tiny.cc/SS-Astro04",
+          "whatsapp": "6282257510431",
+          "linkedin": "https://www.linkedin.com/in/teh-wendy-s-i-kom-84b00920b/",
+          "instagram": "https://www.instagram.com/starship_edu/",
+          "email": "tehwendy7@gmail.com"
+        }
+      ]
+    },
+    {
+      "name": "Makassar",
+      "members": [
+        {
+          "name": "Ainah Abdullah",
+          "role": "Education Counselor",
+          "image": "http://tiny.cc/SS-Astrid014",
+          "whatsapp": "6287816104247",
+          "linkedin": "https://www.linkedin.com/in/ainah-abdullah-1a97bb258/",
+          "instagram": "https://www.instagram.com/starship_edu/",
+          "email": "Ainah.abdullah8484@gmail.com"
+        }
+      ]
+    },
+
+    
+    {
+      "name": "Bali",
+      "members": [
+        {
+          "name": "Nuning Indri",
+          "role": "Education Counselor",
+          "image": "http://tiny.cc/SS-Astrid012",
+          "whatsapp": "6283846673842",
+          "linkedin": "https://www.linkedin.com/in/nuning-indri-18a0ab178/",
+          "instagram": "https://www.instagram.com/starship_edu/",
+          "email": "info@starshipeducation.com"
+        }
+      ]
+    },
+    {
+      "name": "Balikpapan",
+      "members": [
+        {
+          "name": "Dian Kumalasari",
+          "role": "Education Counselor",
+          "image": "http://tiny.cc/SS-Astrid13",
+          "whatsapp": "628125874661",
+          "linkedin": "https://www.linkedin.com/company/starshipeducation/",
+          "instagram": "https://www.instagram.com/starship_edu/",
+          "email": "kumalasari.dian@gmail.com"
+        }
+      ]
+    },
+    {
+      "name": "Bandung",
+      "members": [
+        {
+          "name": "Utheu Budhi S",
+          "role": "Education Counselor",
+          "image": "http://tiny.cc/SS-Astro03",
+          "whatsapp": "6285173330152",
+          "linkedin": "https://www.linkedin.com/in/utheu-budhi-susetyo-93a2a4184/",
+          "instagram": "https://www.instagram.com/starship_edu/",
+          "email": "budhiutheu@gmail.com"
+        }
+      ]
+    },
+    {
+      "name": "Banten",
+      "members": [
+        {
+          "name": "Aura Khafifah",
+          "role": "Education Counselor",
+          "image": "http://tiny.cc/SS-Astrid04",
+          "whatsapp": "6287786271030",
+          "linkedin": "https://www.linkedin.com/in/aura-khafifah/",
+          "instagram": "https://www.instagram.com/starship_edu/",
+          "email": "aurakhafifah00@gmail.com"
+        }
+      ]
+    },
+    {
+      "name": "Batam",
+      "members": [
+        {
+          "name": "Rosya Imelda M.S",
+          "role": "Education Counselor",
+          "image": "http://tiny.cc/Astro4",
+          "whatsapp": "6287833996022",
+          "linkedin": "https://www.linkedin.com/company/starshipeducation/",
+          "instagram": "https://www.instagram.com/starship_edu/",
+          "email": "rosyaimeldams@gmail.com"
+        }
+      ]
+    },
+    {
+      "name": "Bogor",
+      "members": [
+        {
+          "name": "Ika Arfiyati",
+          "role": "Education Counselor",
+          "image": "http://tiny.cc/SS-Astrid06",
+          "whatsapp": "6285693717024",
+          "linkedin": "https://www.linkedin.com/in/ika-arfiyati-a1272b229/",
+          "instagram": "https://www.instagram.com/rorien_nat/",
+          "email": "ikaarfiyati@gmail.com"
+        },
+        {
+          "name": "Salix Fini M",
+          "role": "Education Counselor",
+          "image": "http://tiny.cc/SS-Astrid07",
+          "whatsapp": "6281315250245",
+          "linkedin": "https://www.linkedin.com/in/salix-maris-09/",
+          "instagram": "https://www.instagram.com/starship_edu/",
+          "email": "salixfm@gmail.com"
+        }
+      ]
+    },
+    {
+      "name": "Depok",
+      "members": [
+        {
+          "name": "Amelia Vera A.S",
+          "role": "Education Counselor",
+          "image": "http://tiny.cc/SS-Astrid05",
+          "whatsapp": "6285273744974",
+          "linkedin": "https://www.linkedin.com/in/amelia-vera-angelina-sibuea-a9867629/",
+          "instagram": "https://www.instagram.com/starship_edu/",
+          "email": "ameliasibuea@yahoo.com"
+        }
+      ]
+    },
+    {
+      "name": "Gorontalo",
+      "members": [
+        {
+          "name": "Fariyal Yema",
+          "role": "Education Counselor",
+          "image": "http://tiny.cc/SS-Astrid013",
+          "whatsapp": "6282214781025",
+          "linkedin": "https://www.linkedin.com/company/starshipeducation/",
+          "instagram": "https://www.instagram.com/starship_edu/",
+          "email": "yayanarayema05@gmail.com"
+        }
+      ]
+    },
+    {
+      "name": "Jember",
+      "members": [
+        {
+          "name": "Alfira Rusfika",
+          "role": "Education Counselor",
+          "image": "http://tiny.cc/SS-Astrid011",
+          "whatsapp": "6285236446524",
+          "linkedin": "https://www.linkedin.com/in/alfira-rusfika-a85085212/",
+          "instagram": "https://www.instagram.com/starship_edu/",
+          "email": "alfirarusfika@gmail.com"
+        }
+      ]
+    },
+    {
+      "name": "Jogjakarta",
+      "members": [
+        {
+          "name": "Riris Nurwendah",
+          "role": "Education Counselor",
+          "image": "http://tiny.cc/SS-Astrid08",
+          "whatsapp": "6281296383242",
+          "linkedin": "https://www.linkedin.com/in/riris-nurwendah-388837154/",
+          "instagram": "https://www.instagram.com/starship_edu/",
+          "email": "riris.nurwendah22@gmail.com"
+        },
+        {
+          "name": "Florencia Valentine",
+          "role": "Education Counselor",
+          "image": "http://tiny.cc/SS-Astrid09",
+          "whatsapp": "6285255645523",
+          "linkedin": "https://www.linkedin.com/in/florenciavt/",
+          "instagram": "https://www.instagram.com/starship_edu/",
+          "email": "tandirerungf@gmail.com"
+        }
+      ]
+    },
+    {
+      "name": "Semarang",
+      "members": [
+        {
+          "name": "Diah Dwi H",
+          "role": "Education Counselor",
+          "image": "http://tiny.cc/SS-Astrid11",
+          "whatsapp": "6289674051292",
+          "linkedin": "https://www.linkedin.com/company/starshipeducation/",
+          "instagram": "https://www.instagram.com/starship_edu/",
+          "email": "diahayani@gmail.com"
+        }
+      ]
+    },
+  
+    {
+      "name": "Mamuju",
+      "members": [
+        {
+          "name": "Shim Pangestika",
+          "role": "Education Counselor",
+          "image": "http://tiny.cc/ss-Astrid12",
+          "whatsapp": "6281225160371",
+          "linkedin": "https://www.linkedin.com/in/shim-pangestika-66982b246/",
+          "instagram": "https://www.instagram.com/starship_edu/",
+          "email": "shimapangestika@poltekkesmamuju.ac.id"
+        }
+      ]
+    },
+    {
+      "name": "Pekanbaru",
+      "members": [
+        {
+          "name": "M. Fauzan Delfani",
+          "role": "Education Counselor",
+          "image": "http://tiny.cc/ss-astro2",
+          "whatsapp": "6282268495589",
+          "linkedin": "https://www.linkedin.com/company/starshipeducation/",
+          "instagram": "https://www.instagram.com/starship_edu/",
+          "email": "mfauzandelfani@gmail.com"
+        }
+      ]
+    },
+    {
+      "name": "Samarinda",
+      "members": [
+        {
+          "name": "Dicky Suheiriawan",
+          "role": "Education Counselor",
+          "image": "http://tiny.cc/ss-astro3",
+          "whatsapp": "6289522094949",
+          "linkedin": "https://www.linkedin.com/company/starshipeducation/",
+          "instagram": "https://www.instagram.com/starship_edu/",
+          "email": "dickysuheiriwan11@gmail.com"
+        }
+      ]
+    },
+    
+    {
+      "name": "Riau",
+      "members": [
+        {
+          "name": "Zera Helga",
+          "role": "Education Counselor",
+          "image": "http://tiny.cc/ss-astrid20",
+          "whatsapp": "6281534138858",
+          "linkedin": "https://www.linkedin.com/company/starshipeducation/",
+          "instagram": "https://www.instagram.com/starship_edu/",
+          "email": "zerahelga968@gmail.com"
+        }
+      ]
+    },
+    {
+      "name": "Padang",
+      "members": [
+        {
+          "name": "Rialliza Nuryana",
+          "role": "Education Counselor",
+          "image": "http://tiny.cc/ss-astrid20",
+          "whatsapp": "6285274006771",
+          "linkedin": "https://www.linkedin.com/company/starshipeducation/",
+          "instagram": "https://www.instagram.com/starship_edu/",
+          "email": "riallizanuryana@gmail.com"
+        }
+      ]
+    }
+  ]
+}

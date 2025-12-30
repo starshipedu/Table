@@ -1,0 +1,165 @@
+{
+  "metadata": {
+    "system": "Starship LMS",
+    "version": "2.1.0",
+    "last_updated": "2025-08-01T09:15:00Z",
+    "author": "Starship Education Team",
+    "features": ["resource_links", "syllabus_tracking"]
+  },
+  "admins": [
+    {
+      "id": "admin1",
+      "username": "superadmin",
+      "password": "admin1234", 
+      "name": "Admin Utama",
+      "email": "admin@starship.com",
+      "role": "superadmin",
+      "is_active": true,
+      "created_at": "2025-01-01T00:00:00Z",
+      "last_login": "2025-07-30T14:20:00Z",
+      "permissions": ["*"],
+      "spreadsheet_id": "1XyZ..." 
+    }
+  ],
+  "tutors": [
+    {
+      "id": "tutor1",
+      "username": "hypernova1",
+      "password": "tutor1234", 
+      "name": "Siti Azri Ulmi Ramadhanty",
+      "email": "azri@starship.com",
+      "phone": "+628123456789",
+      "specialization": "Scholarship Preparation",
+      "bio": "LPDP awardee with 5+ years experience...",
+      "image": "https://astronaut.starshipeducation.com/public/uploads/main/files/03-01-2025/IMG_0147.jpeg",
+      "expertise": ["LPDP", "Essay Writing"],
+      "approved": true,
+      "approved_by": "admin1",
+      "approved_at": "2025-01-15T09:00:00Z",
+      "created_at": "2025-01-01T08:00:00Z",
+      "spreadsheet_id": "1Yna4jC6JAV6OAUrnQl1OD2Y5c1fr6f_6iFVGox_9Guk",
+      "commission_rate": 0.7,
+      "resource_folder_id": "1-IjFA63cJ62pvIFVujh7MaNXBXkieEQm"
+    }
+  ],
+  "students": [
+    {
+      "id": "student1",
+      "username": "budi123",
+      "password": "$2a$10$XyZ...",
+      "name": "Budi Santoso",
+      "email": "budi@example.com",
+      "phone": "+628987654321",
+      "institution": "Universitas Indonesia",
+      "assigned_tutor_id": "tutor1",
+      "created_at": "2025-07-10T14:25:00Z",
+      "last_active": "2025-07-29T11:30:00Z",
+      "status": "active",
+      "access_level": "premium"
+    }
+  ],
+  "courses": [
+    {
+      "id": "course1",
+      "tutor_id": "tutor1",
+      "title": "LPDP Celestial Program",
+      "category": "LPDP",
+      "description": "Complete LPDP scholarship preparation from application to interview",
+      "price": 2399000,
+      "image": "https://astronaut.starshipeducation.com/public/uploads/main/files/24-02-2025/celestial.png",
+      "duration": "8 weeks",
+      "level": "Beginner",
+      "language": "Indonesian",
+      "learning_outcomes": [
+        "Memahami seluruh persyaratan LPDP",
+        "Menguasai teknik penulisan esai yang efektif"
+      ],
+      "requirements": [
+        "Basic English proficiency",
+        "S1/S2 degree atau sedang menempuh"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "session": 1,
+          "topic": "Understanding LPDP Requirements",
+          "duration": "90 minutes",
+          "description": "Learn about all LPDP requirements and selection criteria",
+          "resources": [
+            {
+              "name": "LPDP_Guidebook.pdf",
+              "link": "https://drive.google.com/uc?export=download&id=1aB2cD3eF4gH5iJ6kL",
+              "type": "pdf",
+              "size": "2.4 MB",
+              "uploaded_at": "2025-07-15T10:00:00Z"
+            }
+          ],
+          "is_assignment": false,
+          "completion_badge": "lpdp-basic"
+        },
+        {
+          "week": 1,
+          "session": 2,
+          "topic": "Essay Writing Workshop",
+          "duration": "120 minutes",
+          "description": "Hands-on session for crafting winning essays",
+          "resources": [
+            {
+              "name": "Essay_Template.docx",
+              "link": "https://drive.google.com/uc?export=download&id=2bC3dE4fG5hI6jK7L",
+              "type": "docx",
+              "size": "1.1 MB"
+            },
+            {
+              "name": "Sample_Essays.zip",
+              "link": "https://drive.google.com/uc?export=download&id=3cD4eF5gH6iJ7kL8M",
+              "type": "zip",
+              "size": "4.5 MB"
+            }
+          ],
+          "is_assignment": true,
+          "assignment_due": "2025-08-05T23:59:00Z",
+          "max_score": 100
+        }
+      ],
+      "approved": true,
+      "approved_by": "admin1",
+      "approved_at": "2025-07-15T10:30:00Z",
+      "created_at": "2025-06-01T08:00:00Z",
+      "updated_at": "2025-07-28T14:45:00Z",
+      "detail_url": "https://course.starshipeducation.com/2025/07/lpdp-hypernovacelestia-azri.html",
+      "rating": 4.9,
+      "enrolled_students": 42,
+      "resource_folder": {
+        "id": "1-IjFA63cJ62pvIFVujh7MaNXBXkieEQm",
+        "url": "https://drive.google.com/drive/u/1/folders/1-IjFA63cJ62pvIFVujh7MaNXBXkieEQm"
+      }
+    }
+  
+  ],
+  "audit_logs": [
+    {
+      "id": "log1",
+      "timestamp": "2025-07-30T08:30:00Z",
+      "user_id": "admin1",
+      "user_type": "admin",
+      "action": "resource_upload",
+      "target_id": "course1",
+      "ip_address": "192.168.1.100",
+      "details": "Uploaded LPDP_Guidebook.pdf",
+      "metadata": {
+        "file_size": "2.4 MB",
+        "file_type": "pdf"
+      }
+    }
+  ],
+  "resource_analytics": [
+    {
+      "course_id": "course1",
+      "resource_id": "1aB2cD3eF4gH5iJ6kL",
+      "downloads": 42,
+      "last_download": "2025-07-29T16:45:00Z",
+      "popularity_rank": 1
+    }
+  ]
+}

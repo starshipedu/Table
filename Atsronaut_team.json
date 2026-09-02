@@ -256,19 +256,36 @@
     },
   
     {
-      "name": "Mamuju",
+      "name": "Maluku",
       "members": [
         {
-          "name": "Shim Pangestika",
+          "name": "Rany Aprilia Utami",
           "role": "Education Counselor",
-          "image": "http://tiny.cc/ss-Astrid12",
-          "whatsapp": "6281225160371",
-          "linkedin": "https://www.linkedin.com/in/shim-pangestika-66982b246/",
+          "image": "https://starshipeducation.com/wp-content/uploads/2026/09/Rany-Aprilia-Utami.webp",
+          "whatsapp": "6285878389202",
+          "linkedin": "https://www.linkedin.com/in/rany-aprilia-utami/",
           "instagram": "https://www.instagram.com/starship_edu/",
-          "email": "shimapangestika@poltekkesmamuju.ac.id"
+          "email": "rany@starshipeducation.com"
         }
       ]
     },
+
+    {
+          "name": "Mamuju",
+          "members": [
+            {
+              "name": "Shim Pangestika",
+              "role": "Education Counselor",
+              "image": "http://tiny.cc/ss-Astrid12",
+              "whatsapp": "6281225160371",
+              "linkedin": "https://www.linkedin.com/in/shim-pangestika-66982b246/",
+              "instagram": "https://www.instagram.com/starship_edu/",
+              "email": "shimapangestika@poltekkesmamuju.ac.id"
+            }
+          ]
+        },
+    
+    
     {
       "name": "Pekanbaru",
       "members": [
